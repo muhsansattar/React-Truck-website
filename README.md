@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+![screencapture-localhost-3000-2024-06-05-08_57_37](https://github.com/muhsansattar/React-Truck-website/assets/90345731/93c88e71-cc06-48a3-a6d7-01a3364fa9b4)
 
 ## Getting Started
 
